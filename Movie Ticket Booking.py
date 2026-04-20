@@ -13,6 +13,7 @@ Regular_price = 500
 VIP_price = 1000
 
 Name=input("Enter your name: ")
+phone number= input("enter phone number: ")
 Ticket_type=input("Your ticket type is(regular/VIP): ")
 
 if Ticket_type=="regular":
